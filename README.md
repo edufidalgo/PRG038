@@ -22,4 +22,5 @@ dificil 1.
       Consegue-se a diferença entre as duas quantidades, subtraindo-a do maior numero de lados. Essa é a quantidade de pares.
       
 dificil 2
+       Para este problema foi utilizado python. O tabuleiro é uma matriz 8x8. Foram definidas funções para conseguir a informação da ameaça de cada tipo de peça no tabuleiro. A rainha é uma junção das ameaças do bispo e da torre. O rei está ameaçado se alguma peça do oponente conseguir interceptá-lo mas sem que ele possa comê-la.
       
