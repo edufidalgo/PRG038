@@ -15,6 +15,18 @@ int main()
     
     return 0;
 }
+  /*funcao para identificar numeros perfeitos
+
+      Parametros (int numero)
+      ----------
+      recebe o numero a ser conferido
+
+      Retorna  (int 0 ou 1)
+      -------
+      retorno 1 caso seja perfeito, 0 caso nao.
+
+      
+  */
 int perfeito(int numero)
 {
     int soma= 0;
